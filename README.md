@@ -1,0 +1,2 @@
+# ai_for_drawing_picture
+ai_for_drawing_picture
