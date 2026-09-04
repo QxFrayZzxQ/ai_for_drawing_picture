@@ -15,6 +15,7 @@ ai_for_drawing_picture
 - NumPy
 - Pillow (PIL)
 
+## Структура 
 bot_face/
 - logic.py         # Модуль подготовки и обработка изображение с помощью нейросети
 - main.py          # Основной файл запуска Telegram-бота
